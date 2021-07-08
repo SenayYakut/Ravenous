@@ -7,6 +7,7 @@ And should be able to sort through restaurants using a filter.
 
 Install the project locally
 ```bash
+https://github.com/SenayYakut/Ravenous.git
 ```
 
 ## Usage
